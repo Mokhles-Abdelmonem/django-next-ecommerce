@@ -1,0 +1,16 @@
+# byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+migrations/
+mydocs/
+# tests and coverage
+*.pytest_cache
+.coverage
+
+# database & logs
+*.db
+db.sqlite3
+# venv
+env/
+env
+
